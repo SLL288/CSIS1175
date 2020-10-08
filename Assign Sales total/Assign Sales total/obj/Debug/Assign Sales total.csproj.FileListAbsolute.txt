@@ -1,0 +1,10 @@
+D:\CSIS1175\Assign Sales total\Assign Sales total\bin\Debug\Assign Sales total.exe.config
+D:\CSIS1175\Assign Sales total\Assign Sales total\bin\Debug\Assign Sales total.exe
+D:\CSIS1175\Assign Sales total\Assign Sales total\bin\Debug\Assign Sales total.pdb
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign Sales total.csprojAssemblyReference.cache
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign_Sales_total.Form1.resources
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign_Sales_total.Properties.Resources.resources
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign Sales total.csproj.GenerateResource.cache
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign Sales total.csproj.CoreCompileInputs.cache
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign Sales total.exe
+D:\CSIS1175\Assign Sales total\Assign Sales total\obj\Debug\Assign Sales total.pdb
